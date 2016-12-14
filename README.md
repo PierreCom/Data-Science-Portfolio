@@ -15,6 +15,7 @@ Here are all my Data Science Projects I did during my free time.
 ## Machine Learning :
 
 - [Predict BoardGame Ratings ](https://github.com/PierreCom/Data-Science-Portfolio/blob/master/BoardGame_Rating_Prediction.ipynb)
+- Coming Soon : Predict the Stock Market Index of the S&P500.
 
 ## Kaggle Machine Learning Competition :
 
