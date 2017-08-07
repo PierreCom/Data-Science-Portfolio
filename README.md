@@ -4,7 +4,7 @@ Here are all my Data Science Projects I did during my free time.
 
 ## Data Analysis:
 
-- `New` [Analysis of Tweets from French Presidential Election ](https://github.com/PierreCom/Data-Science-Portfolio/blob/master/Tweets_Presidential_Election.ipynb)
+- [Analysis of Tweets from French Presidential Election ](https://github.com/PierreCom/Data-Science-Portfolio/blob/master/Tweets_Presidential_Election.ipynb)
 - [Clustering US Senators compared to their votes ](https://github.com/PierreCom/Data-Science-Portfolio/blob/master/Clustering_US_Senators.ipynb)
 - [Hollywood Movies : Explore Success of Movies ](https://github.com/PierreCom/Data-Science-Portfolio/blob/master/Hollywood_Movies_Data_Visualization.ipynb)
 - [Summarizing US Employment Data compared to their College Major ](https://github.com/PierreCom/Data-Science-Portfolio/blob/master/Summarizing_Data.ipynb)
@@ -22,4 +22,5 @@ Here are all my Data Science Projects I did during my free time.
 
 ## Kaggle Machine Learning Competition :
 
+- `New` [Predict Realty price of the Russian Market Final Result : Top 50%. ](https://github.com/PierreCom/Data-Science-Portfolio/blob/master/Sberbank_Russian_Housing_Market.ipynb)
 - [Predict Customer Satisfaction. For this Competition I used H2O, an open source Machine Platform. Final Result : Top 67%. ](https://github.com/PierreCom/Data-Science-Portfolio/blob/master/Kaggle-Santander_Customer_Satisfaction.ipynb)
